@@ -13,4 +13,5 @@ I code dumb stuff in Python.
 ## School
 - [CS](https://github.com/asdfghjkxd/CS) ━ A repository filled with other repositories I created for school
 
+## Stats
 ![some weird stat thing i found online](https://github-readme-stats.vercel.app/api?username=asdfghjkxd&show_icons=true)
