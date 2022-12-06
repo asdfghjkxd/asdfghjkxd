@@ -8,7 +8,7 @@ I code dumb stuff in Python (now Java too)
 
 ## Projects
 - [ArticPy](https://github.com/asdfghjkxd/ArticPy) ━ A simple app built on Streamlit that does simple Natural Language Processing (NLP) tasks using popular Python NLP libraries
-- [Mahjong](https://github.com/asdfghjkxd/MahjongJava) - My first attempt at creating a Java game
+- [Mahjong](https://github.com/asdfghjkxd/MahjongJava) ━ My first attempt at creating a Java game
 
 ## School
 - [CS](https://github.com/asdfghjkxd/CS) ━ A repository filled with other repositories I created for school
