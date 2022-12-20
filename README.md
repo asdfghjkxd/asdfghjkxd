@@ -1,6 +1,10 @@
 # Hello :)
 I code dumb stuff in Python (now Java too)
 
+I also do photography on the side, taking cityscapes and occasionally streets.
+
+Find out more about me through this interactive terminal: [LiveTerm](https://my-live-term-rho.vercel.app/) :D
+
 
 ## Socials
 ‎‎ [![DockerHub Profile](https://img.shields.io/badge/Docker-asdfghjklxd-blue)](https://hub.docker.com/u/asdfghjklxd)
