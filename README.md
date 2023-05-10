@@ -1,7 +1,7 @@
 # Hello :)
 I code dumb stuff in Python (now Java too)
 
-I also do photography on the side, taking cityscapes and occasionally streets.
+I also do photography on the side, mainly doing sports photography and the occasional cityscape.
 
 Find out more about me through this interactive terminal: [LiveTerm](https://my-live-term-rho.vercel.app/) :D
 
