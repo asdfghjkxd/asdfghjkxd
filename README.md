@@ -1,7 +1,7 @@
 # Hello :)
-I code dumb stuff in Python (now Java too)
+I am a developer currently making apps and stuff in Java, Python and Dart/Flutter!
 
-I also do photography on the side, mainly doing sports photography and the occasional cityscape.
+I also do photography in my free time, mainly doing sports photography and the occasional cityscape.
 
 Find out more about me through this interactive terminal: [LiveTerm](https://my-live-term-rho.vercel.app/) :D
 
@@ -12,7 +12,7 @@ Find out more about me through this interactive terminal: [LiveTerm](https://my-
 
 ## Projects
 - [ArticPy](https://github.com/asdfghjkxd/ArticPy) ━ A simple app built on Streamlit that does simple Natural Language Processing (NLP) tasks using popular Python NLP libraries
-- [Mahjong](https://github.com/asdfghjkxd/MahjongJava) ━ My first attempt at creating a Java game
+- [Travela](https://github.com/asdfghjkxd/travela) - Your trusted travelling companion app!
 
 ## School
 - [CS](https://github.com/asdfghjkxd/CS) ━ A repository filled with other repositories I created for school
