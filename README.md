@@ -1,7 +1,7 @@
 # Hello :)
 I am a developer currently making apps and stuff in Java, Python and Dart/Flutter!
 
-I also do photography in my free time, mainly doing sports photography and the occasional cityscape.
+I also do photography in my free time, mainly doing sports, events and sometimes cityscape photography.
 
 Find out more about me through this interactive terminal: [LiveTerm](https://my-live-term-rho.vercel.app/) :D
 
@@ -13,6 +13,8 @@ Find out more about me through this interactive terminal: [LiveTerm](https://my-
 ## Projects
 - [ArticPy](https://github.com/asdfghjkxd/ArticPy) ━ A simple app built on Streamlit that does simple Natural Language Processing (NLP) tasks using popular Python NLP libraries
 - [Travela](https://github.com/asdfghjkxd/travela) - Your trusted travelling companion app!
+- [iP](https://github.com/asdfghjkxd/ip) - My CS2103T Personal SWE Project
+- [tP](https://github.com/AY2324S1-CS2103T-T17-1/tp) - My CS2103T Team SWE Project
 
 ## School
 - [CS](https://github.com/asdfghjkxd/CS) ━ A repository filled with other repositories I created for school
