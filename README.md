@@ -6,6 +6,12 @@ I also do photography in my free time, mainly doing sports, events and sometimes
 
 Find out more about me through this interactive terminal: [LiveTerm](https://my-live-term-rho.vercel.app/) :D
 
+<details>
+    <summary>Terminal</summary>
+    <embed src="https://my-live-term-rho.vercel.app/" style="width:100%; height: 50vh">
+</details>
+
+
 ## Tech
 
 Here are some of the languages/frameworks that I have learnt/am learning:
